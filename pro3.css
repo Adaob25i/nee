@@ -1,0 +1,60 @@
+.goog{
+    background-color: ghostwhite;
+    overflow: hidden;
+
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+.glee{
+    float: left;
+    color: ghostwhite;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.gag{
+    background-color: lightgray;
+    overflow: hidden;
+
+    
+}
+
+.long{
+    width: 30%;
+}
+
+.align{
+    text-align: center;
+}
+
+
+.pillar{
+    text-align: right;
+    margin-top: 2.1rem;
+    
+
+}
+
+li{
+    display: inline;
+position: relative;
+flex-wrap: wrap;
+list-style: none;
+text-decoration: none;
+margin: 0 2vw;
+color: #000;
+}
+
+ul{
+    list-style: none;
+}
+
+.picch{
+    width: 100%;
+    height: 100%;
+    max-width: 10px;
+}
